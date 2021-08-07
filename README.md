@@ -5,6 +5,8 @@ Veritabanına "kimlik" diye bir item eklemeniz yeterli olacaktır.
 
 Ve Şunları Yapın;
 
+# Requirements
+ - [kibra-base](https://github.com/kibradev/kibra-base)
 
 # qb_inventory/html/css/app.js
 
